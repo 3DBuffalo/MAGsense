@@ -9,7 +9,7 @@ import com.qualcomm.robotcore.hardware.DigitalChannel; // Import for digital sen
   - This code assumes your robot project is already in a working condition. 
  * STEPS TO SET UP THE MAGsense SENSOR:
  * 1. Wire the sensor to the REV Hub:
- *    - VCC (power) → 3.3V or 5V port on the REV Hub.
+ *    - VCC (power) → 3.3V port on the REV Hub.
  *    - GND (ground) → GND port on the REV Hub.
  *    - OUT (signal 1 & 2) → Digital Input port (e.g., "Digital 0").
  * 2. Configure the REV Hub in the Driver Station:
