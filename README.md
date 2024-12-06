@@ -15,7 +15,7 @@ The MAGsense magnetic limit switch uses a digital output signal, making it very 
 The MAGsense datasheet only includes information about the sensor itself, not the case. 
 * [MAGsense: Magnetic Sensor Data Sheet (December 2024)](https://github.com/3DBuffalo/MAGsense/blob/4e2adcd4b2f97821872ce83109b37849c5066fe6/MAGsense%20Magnetic%20Limit%20Switch%20Sensor%20Data%20Sheet.pdf))
 
-##Schematics
+## Schematics
 The MAGsense schematics are public to use for reference. They can be found [here](https://github.com/3DBuffalo/MAGsense/blob/main/MAGsense_schematics.pdf)
 
 ## CAD Files
