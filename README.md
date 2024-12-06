@@ -13,7 +13,7 @@ The MAGsense magnetic limit switch uses a digital output signal, making it very 
 
 ## Data Sheet
 The MAGsense datasheet only includes information about the sensor itself, not the case. 
-* [Datasheet](MAGsense Magnetic Limit Switch Sensor Data Sheet.pdf)
+* [Datasheet](https://github.com/3DBuffalo/MAGsense/blob/main/MAGsense Magnetic Limit Switch Sensor Data Sheet.pdf)
 
 ## CAD Files
 The CAD files for the MAGsense sensor & case can be found here:
@@ -27,12 +27,10 @@ This warranty covers defects in materials and workmanship under normal use. If y
 
 
 **WHAT'S NOT COVERED:**
-
 The warranty does not cover damages caused by misuse, accidents, unauthorized modifications, improper installation, or normal wear and tear.
 
 
 **HOW TO MAKE A CLAIM:**
-
 If you experience an issue, please contact our customer service team at contact@3dbuffalo.co with the following requirements:
  
 
@@ -49,4 +47,4 @@ We will provide instructions for returning the product for inspection. We are co
 
 For more information please visit:
 
-[www.3dbuffalo.co] or contact: contact@3dbuffalo.co
+www.3dbuffalo.co or contact: contact@3dbuffalo.co
