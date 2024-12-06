@@ -19,7 +19,32 @@ The MAGsense datasheet only includes information about the sensor itself, not th
 The CAD files for the MAGsense sensor & case can be found here:
 
 ## Warranty & support
-3DBU offer a () warranty for the MAGsense magnetic sensor. 
+Thank you for choosing our MAGsense! We stand by the quality and performance of our product, which is why we offer a 6 MONTH LIMITED WARRANTY from the date of purchase.
+ 
+
+WHAT'S COVERED:
+This warranty covers defects in materials and workmanship under normal use. If your MAGsense malfunctions due to a manufacturing defect, we will repair or replace it free of charge.
+
+
+WHAT'S NOT COVERED:
+
+The warranty does not cover damages caused by misuse, accidents, unauthorized modifications, improper installation, or normal wear and tear.
+
+
+HOW TO MAKE A CLAIM:
+
+If you experience an issue, please contact our customer service team at contact@3dbuffalo.co with the following requirements:
+ 
+
+NAME OF CUSTOMER AS LISTED
+ORDER NUMBER AND PURCHASE DETAILS
+BRIEF DESCRIPTION OF ISSUE
+
+ 
+We will provide instructions for returning the product for inspection. We are committed to ensuring your satisfaction and appreciate your trust in our product!
+
+
+Note: Only the original buyer may file a claim. Our warranty does not apply if you purchase our MAGsense elsewhere.
 
 **We Cover:**
 * Damage done during shipping
