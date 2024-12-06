@@ -1,4 +1,4 @@
-# MAGsense
+# MAGsense: Magnetic Sensor
 
 ## Description
 The 3DBU MAGsense is a compact, low-power magnetic sensor that outputs a digital signal to indicate magnetic field presence: high for detection and low for no field. Its intuitive design makes it ideal for robotics applications like FRC, FTC, and DIY projects. Featuring four Texas Instruments DRV5032 omnipolar Hall-effect sensors, it delivers reliable and accurate performance in a space-efficient form factor.
@@ -22,34 +22,30 @@ The CAD files for the MAGsense sensor & case can be found here:
 Thank you for choosing our MAGsense! We stand by the quality and performance of our product, which is why we offer a 6 MONTH LIMITED WARRANTY from the date of purchase.
  
 
-WHAT'S COVERED:
+**WHAT'S COVERED:**
 This warranty covers defects in materials and workmanship under normal use. If your MAGsense malfunctions due to a manufacturing defect, we will repair or replace it free of charge.
 
 
-WHAT'S NOT COVERED:
+**WHAT'S NOT COVERED:**
 
 The warranty does not cover damages caused by misuse, accidents, unauthorized modifications, improper installation, or normal wear and tear.
 
 
-HOW TO MAKE A CLAIM:
+**HOW TO MAKE A CLAIM:**
 
 If you experience an issue, please contact our customer service team at contact@3dbuffalo.co with the following requirements:
  
 
-NAME OF CUSTOMER AS LISTED
-ORDER NUMBER AND PURCHASE DETAILS
-BRIEF DESCRIPTION OF ISSUE
+1. NAME OF CUSTOMER AS LISTED
+2. ORDER NUMBER AND PURCHASE DETAILS
+3. BRIEF DESCRIPTION OF ISSUE
 
  
 We will provide instructions for returning the product for inspection. We are committed to ensuring your satisfaction and appreciate your trust in our product!
 
 
-Note: Only the original buyer may file a claim. Our warranty does not apply if you purchase our MAGsense elsewhere.
+**Note: Only the original buyer may file a claim. Our warranty does not apply if you purchase our MAGsense elsewhere.**
 
-**We Cover:**
-* Damage done during shipping
-* Damage to the sensor prior to customer purchase
-* Defective sensor
 
 For more information please visit:
 
