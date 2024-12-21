@@ -30,7 +30,7 @@ public class MAGsense extends LinearOpMode {
     @Override
     public void runOpMode() {
         // Initialize the sensor using the configured name
-        mag = hardwareMap.get(DigitalChannel.class, "hall_sensor");
+        mag = hardwareMap.get(DigitalChannel.class, "MAGsense");
 
         // Set the mode of the sensor (Input or Output, usually Input)
         mag.setMode(DigitalChannel.Mode.INPUT);
